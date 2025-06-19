@@ -1,2 +1,2 @@
 # apna
-my ffirst repository
+my first repository
